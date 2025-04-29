@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: pink;
+    background-image: linear-gradient(white,pink,rgb(238, 78, 105));
     padding: 1rem;
 }
 
